@@ -1,4 +1,4 @@
-# grpc chunker exmaple
+# grpc stream exmaple
 
 ## server
 ~~~go
